@@ -1,5 +1,5 @@
 # OldPassengersFX
-PassengersFX 1.0.1 (from 2017), prior to maintenance of the project being taken over by X-Plane Addicted.
+PassengersFX 1.0.1 (from 2017), prior to development of the project being taken over by Kevan Fitzakerley.
 
 Emphasis - version 1.0.1. The code here has not been updated since 2017! I was the developer and maintainer of PassengersFX prior to handing over development to Kevan Fitzakerley.
 
